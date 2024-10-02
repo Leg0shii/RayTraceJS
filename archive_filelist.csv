@@ -1,0 +1,10 @@
+﻿Name;Größe;Vorname;Nachname;Downloads;Datum;Pfad
+index.html;3376;Martin;Röhlig;24;"07.05.2021 09:43";"Aufgabe 2 - Material zur WebGL-Programmierung/index.html"
+main.js;2283;Martin;Röhlig;30;"07.05.2021 09:43";"Aufgabe 2 - Material zur WebGL-Programmierung/main.js"
+math-utils.js;23127;Martin;Röhlig;6;"07.05.2021 09:44";"Aufgabe 2 - Material zur WebGL-Programmierung/common/math-utils.js"
+obj-loader.js;3848;Martin;Röhlig;6;"07.05.2021 09:44";"Aufgabe 2 - Material zur WebGL-Programmierung/common/obj-loader.js"
+render-utils.js;2023;Martin;Röhlig;8;"07.05.2021 09:44";"Aufgabe 2 - Material zur WebGL-Programmierung/common/render-utils.js"
+shader-utils.js;1803;Martin;Röhlig;6;"07.05.2021 09:44";"Aufgabe 2 - Material zur WebGL-Programmierung/common/shader-utils.js"
+style.css;2292;Martin;Röhlig;11;"07.05.2021 09:44";"Aufgabe 2 - Material zur WebGL-Programmierung/common/style.css"
+teapot.js;89935;Martin;Röhlig;10;"07.05.2021 09:44";"Aufgabe 2 - Material zur WebGL-Programmierung/common/teapot.js"
+webgl-utils.js;5637;Martin;Röhlig;7;"07.05.2021 09:44";"Aufgabe 2 - Material zur WebGL-Programmierung/common/webgl-utils.js"
